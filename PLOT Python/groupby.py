@@ -1,6 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# PROBLEM: https://www.hackerrank.com/challenges/occupations/problem
+
 data = {
     'Name': ['Abigail', 'Samantha', 'Julia', 'Ashley', 'Maria', 'Jane', 'Christeen', 'Kristeen', 'Scarlet', 'Amelia', 'Priya', 'Meera', 'Priyanka', 'Priyanka', 'Jennifer', 'Priya', 'Julia', 'Kristeen', 'Samantha', 'Ashley'],
     'Occupation': ['Doctor']*10 + ['Professor']*3 + ['Singer']*7,
